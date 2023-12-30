@@ -98,6 +98,7 @@ footer {
   margin-top: 2rem;
   color: var(--Very-Dark-Grayish-Blue);
   font-size: 0.9rem;
+  text-align: center;
 
   a {
     color: var(--Very-Dark-Grayish-Blue);
